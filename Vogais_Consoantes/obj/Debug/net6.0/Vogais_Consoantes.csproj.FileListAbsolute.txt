@@ -1,0 +1,14 @@
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\bin\Debug\net6.0\Vogais_Consoantes.exe
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\bin\Debug\net6.0\Vogais_Consoantes.deps.json
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\bin\Debug\net6.0\Vogais_Consoantes.runtimeconfig.json
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\bin\Debug\net6.0\Vogais_Consoantes.dll
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\bin\Debug\net6.0\Vogais_Consoantes.pdb
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\Vogais_Consoantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\Vogais_Consoantes.AssemblyInfoInputs.cache
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\Vogais_Consoantes.AssemblyInfo.cs
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\Vogais_Consoantes.csproj.CoreCompileInputs.cache
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\Vogais_Consoantes.dll
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\refint\Vogais_Consoantes.dll
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\Vogais_Consoantes.pdb
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\Vogais_Consoantes.genruntimeconfig.cache
+C:\Users\Anthony\source\repos\Vogais_Consoantes\Vogais_Consoantes\obj\Debug\net6.0\ref\Vogais_Consoantes.dll
